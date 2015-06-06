@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-tagline: And Tagline
-email: gayanvirajith@gmail.com
+title: It's In The Computer?
+tagline:
+email:
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m a professional UI/UX designrer and web developer. 
   I love being minimal and creative.
 baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://gayan.me" # the base hostname & protocol for your site
+url: http://127.0.0.1:4000
 logourl: /assets/images/logo.png # Site logo
-author: "Tom Warlker"
+author: "Dmitry Vizer"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
 # Theme customization - please change from the defaults!
 theme:
