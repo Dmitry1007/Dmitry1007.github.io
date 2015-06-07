@@ -5,8 +5,9 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I’m a professional UI/UX designrer and web developer. 
   I love being minimal and creative.
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: http://dmitry1007.github.io/ #http://127.0.0.1:4000
+baseurl: #"/gaya" # the subpath of your site, e.g. /blog/
+# url: http://127.0.0.1:4000
+url: http://dmitry1007.github.io/
 logourl: /assets/images/logo.png # Site logo
 author: "Dmitry Vizer"
 author_thumbnail: "/assets/images/avatar.jpg" # Author avatar
